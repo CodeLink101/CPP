@@ -1,0 +1,24 @@
+To-Do List Application
+
+
+A simple console base to do list application implemeted in C++ .
+The application allowd the users to add task , mark task as completed ,undo the last operation , redo undoe task and dislays the current task inthe to-dolist.
+
+
+
+Features
+1.Add Task - users can add anew task to theto-do list bu provdidng a task deciption 
+2.Complete Task - users can mark the last added task as completed 
+3.Undo - usera can undo the last task operation ,which included addindd a tak or markigna tak a completd
+4.Redo - Users can redo the last undone task
+5.Display Task - usrs can view the current tasks intheto-do list , including thier stauts(pending or done)
+6.Exit  users can exit hte applcaiton 
+
+
+
+
+Code Structure--
+-Task Structure
+-ToDoList Class
+-Main Function
+
